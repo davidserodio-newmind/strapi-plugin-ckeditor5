@@ -25,6 +25,14 @@ const Wrapper = styled.div`
       list-style: initial;
       margin-left: 16px;
     }
+    
+    .ck-heading_heading5 {
+      font-size: 12px;
+    }
+    
+    .ck-heading_heading6 {
+      font-size: 10px;
+    }
   }
 `;
 
