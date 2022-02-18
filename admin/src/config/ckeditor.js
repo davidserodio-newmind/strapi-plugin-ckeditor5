@@ -91,7 +91,14 @@ module.exports = {
   },
   fontColor: {
     colors: [
-       { color: "#73bd14", label: "Green" }
+       { color: "#73bd14", label: "Green" },
+       { color: "#000000", label: "Black" },
+       { color: "#3b2f2f", label: "Gray" },
+       { color: "#cc0000", label: "Red" },
+       { color: "#b50404", label: "Red - Level 0" },
+       { color: "#ffa000", label: "Orange - Level 1" },
+       { color: "#1d8ab5", label: "Blue - Level 2" },
+       { color: "#1e8a21", label: "Green - Level 3" },
     ],
   },
   heading: {
